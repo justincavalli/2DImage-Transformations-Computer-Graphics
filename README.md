@@ -1,0 +1,2 @@
+# 2D Image Transformations
+This project applies transformations to the specified image file using matrix-vector multiplication. The project loads an image and creates a copy that is then scaled by 2 around its center and rotated 45 degrees around its center. The scaling and rotation can be adjusted by altering the specified MyMatrix object that is multiplied by MyVector in the loop through every pixel in the image.
